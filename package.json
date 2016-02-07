@@ -1,0 +1,15 @@
+{
+  "name": "hackpad-to-github",
+  "version": "1.0.0",
+  "description": "A simple script for syncing hackpad content to github",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kirk Chen",
+  "license": "MIT",
+  "dependencies": {
+    "hackpad": "0.0.3",
+    "q": "^1.4.1",
+    "simple-git": "^1.22.0"
+  }
+}
